@@ -1,4 +1,4 @@
-#FastNQueens
+# Fast N-Queens
 
 For my algorithms class I made an algorithm to solve the N-Queens problem using backtracking, but at around n=32 or so it started to slow down to >5 mins. I decided to make a faster version without backtracking.
 
