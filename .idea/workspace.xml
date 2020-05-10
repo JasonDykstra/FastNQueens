@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e535227-d76c-4c7c-a91e-d9a2483dc3fc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bgqqwLOf9wRuv1lg4fTbUj9vtL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="NQueens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NQueens" />
+      <module name="FastNQueens" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NQueens" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e535227-d76c-4c7c-a91e-d9a2483dc3fc" name="Default Changelist" comment="" />
+      <created>1589064278709</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589064278709</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2517" height="323" key="GridCell.Tab.0.bottom" timestamp="1589069046973">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="323" key="GridCell.Tab.0.bottom/-1680.389.1680.1010/0.0.2560.1400@0.0.2560.1400" timestamp="1589069046973" />
+    <state width="2517" height="323" key="GridCell.Tab.0.center" timestamp="1589069046973">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="323" key="GridCell.Tab.0.center/-1680.389.1680.1010/0.0.2560.1400@0.0.2560.1400" timestamp="1589069046973" />
+    <state width="2517" height="323" key="GridCell.Tab.0.left" timestamp="1589069046973">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="323" key="GridCell.Tab.0.left/-1680.389.1680.1010/0.0.2560.1400@0.0.2560.1400" timestamp="1589069046973" />
+    <state width="2517" height="323" key="GridCell.Tab.0.right" timestamp="1589069046973">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="323" key="GridCell.Tab.0.right/-1680.389.1680.1010/0.0.2560.1400@0.0.2560.1400" timestamp="1589069046973" />
+    <state x="911" y="397" width="737" height="606" key="find.popup" timestamp="1589068035346">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="911" y="397" width="737" height="606" key="find.popup/-1680.389.1680.1010/0.0.2560.1400@0.0.2560.1400" timestamp="1589068035346" />
+  </component>
+</project>
